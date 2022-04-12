@@ -1,10 +1,10 @@
-Olá
+✨ Olá ✨
 
 Me chamo michele e atualmente estou aprendendo programação. 
 
-Atualmente tenho focado meu aprendizado em HTML - CSS - JAVA, mas tenho interesse em aprendar mais sobre banco de dados. 
+:desktop_computer: Atualmente tenho focado meu aprendizado em HTML - CSS - JAVA, mas tenho interesse em aprendar mais sobre banco de dados. 
 
-Ainda sou iniciante na área e pretendo registrar aqui a minha evolução, exibindo exercicios propostos em aulas e desafios. 
+:bulb: Ainda sou iniciante na área e pretendo registrar aqui a minha evolução, exibindo exercicios propostos em aulas e desafios. 
 
 
 
